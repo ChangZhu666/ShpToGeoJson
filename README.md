@@ -6,4 +6,4 @@
 投影信息查看：展示 SHP 文件的投影坐标系、EPSG 代码和 WKT 描述。
 智能投影匹配：自动尝试匹配投影的 EPSG 代码，若无法匹配则保留原始投影信息。
 
-![alt text][example.png]
+![alt text](example.png)
